@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Paul-surf
+- 👀 I’m interested in pc
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on pc
+- 📫 How to reach me mails
