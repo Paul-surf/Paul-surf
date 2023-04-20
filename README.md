@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Paul-surf
-- 👀 I’m interested in computer
+- 👀 I’m interested in computers
 - 🌱 I’m currently learning java
